@@ -1,0 +1,31 @@
+en:
+  sortable:
+    base:
+      new:
+        create: Eleman ekle
+      controls:
+        edit_this: Elemanı düzenle
+        delete: Elemanı sil
+        delete_confirm: Elemanı silmek istediğinizden emin misiniz? 
+        cant_be_deleted: Bağlı elemanlar var. Silinemez!
+        delete_nested_elements: Bağlı tüm elemanları sil
+
+  comments:
+    base:
+      new_comment_form:
+        title: Açıklama
+        conatacts: Email
+        content: Açıklamanız
+        for: için
+        skip: '[atla]'
+        submit: Yorumu gönder
+      comment:
+        reply: '[cevap ver]'
+      new:
+        create: Eleman ekle
+      controls:
+        edit_this: Elemanı düzenle
+        delete: Elemanı sil
+        delete_confirm: Elemanı silmek istediğinizden emin misiniz? 
+        cant_be_deleted: Bağlı elemanlar var. Silinemez!
+        delete_nested_elements: Bağlı tüm elemanları sil
